@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="8.006509">
+<testcase classname="first driver test" name="login to given url" time="8.006509">
+<system-out><![CDATA[Given i have a url and login credentials "niksgr8904" and "nikhlesh1".......passed
+]]></system-out>
+</testcase>
+</testsuite>

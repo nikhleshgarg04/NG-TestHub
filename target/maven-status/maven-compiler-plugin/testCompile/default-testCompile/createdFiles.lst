@@ -1,0 +1,9 @@
+com\lr\nextgen\utils\LoggerUtils.class
+com\lr\nextgen\utils\PropertyManager.class
+com\lr\nextgen\endppoint\APIEndPoints.class
+com\lr\nextgen\stepdefs\common\CommonSteps.class
+com\lr\nextgen\endppoint\JsonPaths.class
+com\lr\nextgen\runner\TestRunner.class
+com\lr\nextgen\utils\UtilsClass.class
+com\lr\nextgen\base\BaseClass.class
+com\lr\nextgen\stepdefs\MS1\MS1Stepdef.class

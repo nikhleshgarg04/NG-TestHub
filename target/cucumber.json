@@ -1,0 +1,45 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 4,
+        "name": "login to given url",
+        "description": "",
+        "id": "first-driver-test;login-to-given-url",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 7769009300,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "i have a url and login credentials \"niksgr8904\" and \"nikhlesh1\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "niksgr8904",
+                  "offset": 36
+                },
+                {
+                  "val": "nikhlesh1",
+                  "offset": 53
+                }
+              ],
+              "location": "MS1Stepdef.i_have_a_url_and_login_credentials_and(String,String)"
+            },
+            "keyword": "Given "
+          }
+        ]
+      }
+    ],
+    "name": "first driver test",
+    "description": "",
+    "id": "first-driver-test",
+    "keyword": "Feature",
+    "uri": "src/test/resources/features/dummyfeature.feature",
+    "tags": []
+  }
+]

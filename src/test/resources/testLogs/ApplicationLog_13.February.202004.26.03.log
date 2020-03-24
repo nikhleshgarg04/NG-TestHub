@@ -1,0 +1,16 @@
+13/02/2020 16:26:03 automation http://api.sunrise-sunset.org/json?lat=36.7201600&lng=-4.4203400
+13/02/2020 16:26:11 automation {
+    "results": {
+        "sunrise": "7:07:56 AM",
+        "sunset": "5:55:46 PM",
+        "solar_noon": "12:31:51 PM",
+        "day_length": "10:47:50",
+        "civil_twilight_begin": "6:41:27 AM",
+        "civil_twilight_end": "6:22:15 PM",
+        "nautical_twilight_begin": "6:11:03 AM",
+        "nautical_twilight_end": "6:52:39 PM",
+        "astronomical_twilight_begin": "5:40:58 AM",
+        "astronomical_twilight_end": "7:22:44 PM"
+    },
+    "status": "OK"
+}
